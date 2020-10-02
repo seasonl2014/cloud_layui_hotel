@@ -1,0 +1,2 @@
+# cloud_layui_hotel
+基于springcloud alibaba+layui整合开发的前后端分离酒店管理系统
